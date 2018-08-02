@@ -37,7 +37,6 @@ a, a:focus, a:hover, a:active {
 a:hover {
 	color: #E02222;
 	text-decoration: underline;
-	cursor: pointer;
 }
 
 /***
@@ -167,6 +166,44 @@ Misc tools
 .margin-right-10 {
 	margin-right: 10px !important;
 }
+
+/*.btn {
+	padding: 7px 14px;  
+	font-size: 14px;
+	text-transform: uppercase;
+	border-radius: 0;
+}
+.btn-primary {
+	border: none;
+	background: #e94d1c;
+	color: #fff;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+	color: #fff;
+	background: #cc3304;
+	border: none;
+}
+.content-page .btn-primary, 
+.content-page .btn-primary:hover {
+	color: #fff;
+	margin-left: 0 !important;
+}
+.btn-default {
+	border: 1px solid #EDEDED;
+	color: #A8AEB3;
+	background: transparent;
+	padding: 6px 13px; 
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active {
+	border: 1px solid #A8AEB3;
+	color: #fff;
+	background: #A8AEB3;
+	padding: 6px 13px; 
+}*/
 
 div.checker,
 div.radio {
