@@ -9,5 +9,4 @@ Foodi is an E-Commerce store. Its design in such a way that it is a user-friendl
 - Easy to Scale and add new feature.
 - Reporting tools and custom report features
 
-![Image of Foodi]
-(https://github.com/mritunjaysrivastava/mritunjaysrivastava.github.io/blob/master/img/foodi.jpg)
+![Image of Foodi](https://github.com/mritunjaysrivastava/mritunjaysrivastava.github.io/blob/master/img/foodi.jpg)
