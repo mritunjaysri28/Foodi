@@ -6,5 +6,5 @@ Foodi is an E-Commerce store. Its design in such a way that it is a user-friendl
 - Inventory.
 - Email Marketing
 - An easy-to-use checkout
-- Reporting tools and custom report features
 - Easy to Scale and add new feature.
+- Reporting tools and custom report features
